@@ -21,11 +21,3 @@ This repository contains code and documentation for projects completed during my
 ### Athrospa
 - **Description:** Athrospa offers products related to sports and fitness.
 - **Data Scraped:** Product features, user reviews, and price information.
-
-## Getting Started
-
-To use the code in this repository, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
